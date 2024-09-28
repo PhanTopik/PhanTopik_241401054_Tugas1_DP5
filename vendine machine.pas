@@ -1,7 +1,7 @@
 uses crt;
 var
 kode: integer;
-produk,b:string;
+produk:string;
 begin
     clrscr;
     writeln('daftar minuman yang tersedia');
