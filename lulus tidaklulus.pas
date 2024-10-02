@@ -14,5 +14,7 @@ begin
             write(nilai_akhir:1:2,' anda lulus');
         end
     else
-        write(nilai_akhir:1:2,' anda tidak lulus');
+        begin
+            write(nilai_akhir:1:2,' anda tidak lulus');
+        end;
 end.
